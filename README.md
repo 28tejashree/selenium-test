@@ -16,7 +16,7 @@ This project automates crawling and testing for Amazon India's e-commerce site. 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/28tejashree/selenium-test.git)
+   git clone https://github.com/28tejashree/selenium-test.git
    cd selenium-test
    ```
 2. Install dependencies:
