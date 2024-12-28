@@ -1,0 +1,64 @@
+2024-12-27T19:42:38.005Z - Search Test: PASS - Tested: laptop
+2024-12-27T19:42:40.588Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T19:42:43.677Z - Search Test: PASS - Tested: 
+2024-12-27T19:42:53.744Z - Test Suite: FAIL - Waiting for element to be located By(css selector, .s-result-item[data-component-type="s-search-result"])
+Wait timed out after 10066ms
+2024-12-27T19:47:59.547Z - Search Test: PASS - Tested: laptop
+2024-12-27T19:48:02.803Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T19:48:05.147Z - Search Test: PASS - Tested: 
+2024-12-27T19:48:15.165Z - Test Suite: FAIL - Waiting for element to be located By(css selector, .s-result-item[data-component-type="s-search-result"])
+Wait timed out after 10018ms
+2024-12-27T19:56:45.366Z - Search Test: PASS - Tested: laptop
+2024-12-27T19:56:48.979Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T19:56:51.332Z - Search Test: PASS - Tested: 
+2024-12-27T19:57:11.515Z - Test Suite: FAIL - Waiting for element to be located By(css selector, .s-result-item[data-component-type="s-search-result"])
+Wait timed out after 20181ms
+2024-12-27T20:01:04.469Z - Test Suite: FAIL - Waiting for element to be located By(css selector, .s-result-item[data-component-type="s-search-result"])
+Wait timed out after 20187ms
+2024-12-27T20:02:33.849Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:02:35.201Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:02:36.555Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:05:09.264Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:05:10.612Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:05:11.966Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:05:26.550Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:05:29.656Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T20:05:32.810Z - Search Test: PASS - Tested: 
+2024-12-27T20:05:53.002Z - Test Suite: FAIL - Waiting for element to be located By(css selector, .s-result-item[data-component-type="s-search-result"])
+Wait timed out after 20191ms
+2024-12-27T20:06:22.353Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:06:27.313Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:06:28.704Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:06:30.109Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:07:31.917Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:07:34.192Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:07:35.625Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:07:37.014Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:09:47.316Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:09:50.946Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:09:52.345Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:09:53.748Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:12:16.492Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T20:12:18.917Z - Search Test: PASS - Tested: 
+2024-12-27T20:12:21.565Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:12:23.859Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:12:25.242Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:12:26.646Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:14:10.576Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T20:14:13.498Z - Search Test: PASS - Tested: 
+2024-12-27T20:14:16.209Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:14:20.826Z - Product Validation: PASS - addToCart
+2024-12-27T20:14:20.826Z - Product Validation: PASS - details
+2024-12-27T20:14:20.826Z - Product Validation: PASS - gallery
+2024-12-27T20:14:21.835Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:14:23.290Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:14:24.699Z - Responsive Test: PASS - Tested at 375x812
+2024-12-27T20:26:51.759Z - Search Test: PASS - Tested: @#$%^
+2024-12-27T20:26:55.024Z - Search Test: PASS - Tested: 
+2024-12-27T20:26:57.809Z - Search Test: PASS - Tested: laptop
+2024-12-27T20:27:03.286Z - Product Validation: PASS - addToCart
+2024-12-27T20:27:03.287Z - Product Validation: PASS - details
+2024-12-27T20:27:03.287Z - Product Validation: PASS - gallery
+2024-12-27T20:27:04.291Z - Responsive Test: PASS - Tested at 1366x768
+2024-12-27T20:27:05.739Z - Responsive Test: PASS - Tested at 768x1024
+2024-12-27T20:27:07.160Z - Responsive Test: PASS - Tested at 375x812

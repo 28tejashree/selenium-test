@@ -1,0 +1,17 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/AmazonTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^131.0.4",
+    "csv-writer": "^1.6.0",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
